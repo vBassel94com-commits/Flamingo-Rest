@@ -1,0 +1,1 @@
+This is a backend project for Flamingo Restaurant. The project allows restaurant owner to manage menu items, categories, and available offers the backend is built with Spring Boot and uses PostgreSQL as the database ,Docker Compose is used for easier setup and deploymentThe project is structured as follows:
